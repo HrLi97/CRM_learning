@@ -12,4 +12,6 @@ public class test {
     public void talk(){
         System.out.println("talk");
     }
+
+    public void fuck(){}
 }
