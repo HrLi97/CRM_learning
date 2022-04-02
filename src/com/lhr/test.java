@@ -14,4 +14,6 @@ public class test {
     }
 
     public void fuck(){}
+
+    public void why(){}
 }
